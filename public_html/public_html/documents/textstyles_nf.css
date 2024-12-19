@@ -1,0 +1,209 @@
+hr {color: #000000}
+body {font: 12px Verdana, Geneva, Arial, Helvetica, sans-serif;color:#000000;background: #FFFFFF;margin:0px;scrollbar-face-color: #ffffff;  scrollbar-3dlight-color: #a9a9a9;  scrollbar-highlight-color: #ffffff;  scrollbar-shadow-color: #ffffff;  scrollbar-darkshadow-color: #a9a9a9;  scrollbar-base-color: #ffffff;  scrollbar-arrow-color: #a9a9a9;  scrollbar-track-color: #ffffff;}
+.rvts0,td,p,h4{font-size:12px;color:#000000;}
+.rvts1{font-weight:bold;font-size:12px;color:#000000;}
+.rvts2{font-style:italic;font-size:12px;color:#000000;}
+.rvts3{font-style:italic;font-weight:bold;font-size:12px;color:#000000;}
+a,a.rvts4,.rvts4{font-size:12px;color:#ff8040;text-decoration:underline;}
+a.rvts4:hover{color:#ff8000;}
+a.rvts5,.rvts5{font-weight:bold;font-size:12px;color:#ff8040;text-decoration:underline;}
+a.rvts5:hover{color:#ff8000;}
+a.rvts6,.rvts6{font-style:italic;font-size:12px;color:#ff8040;text-decoration:underline;}
+a.rvts6:hover{color:#ff8000;}
+a.rvts7,.rvts7{font-style:italic;font-weight:bold;font-size:12px;color:#ff8040;text-decoration:underline;}
+a.rvts7:hover{color:#ff8000;}
+.rvts8,h6,h5{font-weight:normal;font-size:11px;color:#000000;}
+.rvts9{font-weight:bold;font-size:11px;color:#000000;}
+.rvts10{font-style:italic;font-size:11px;color:#000000;}
+.rvts11{font-style:italic;font-weight:bold;font-size:11px;color:#000000;}
+a.rvts12,.rvts12{font-size:11px;color:#ff8040;}
+a.rvts12:hover{color:#ff8000;}
+a.rvts13,.rvts13{font-weight:bold;font-size:11px;color:#ff8040;}
+a.rvts13:hover{color:#ff8000;}
+a.rvts14,.rvts14{font-style:italic;font-size:11px;color:#ff8040;}
+a.rvts14:hover{color:#ff8000;}
+a.rvts15,.rvts15{font-style:italic;font-weight:bold;font-size:11px;color:#ff8040;}
+a.rvts15:hover{color:#ff8000;}
+.rvts16,h3{font-size:15px;color:#000000;}
+.rvts17{font-weight:bold;font-size:15px;color:#000000;}
+.rvts18{font-style:italic;font-size:15px;color:#000000;}
+.rvts19{font-style:italic;font-weight:bold;font-size:15px;color:#000000;}
+a.rvts20,.rvts20{font-size:15px;color:#ff8040;}
+a.rvts20:hover{color:#ff8000;}
+a.rvts21,.rvts21{font-weight:bold;font-size:15px;color:#ff8040;}
+a.rvts21:hover{color:#ff8000;}
+a.rvts22,.rvts22{font-style:italic;font-size:15px;color:#ff8040;}
+a.rvts22:hover{color:#ff8000;}
+a.rvts23,.rvts23{font-style:italic;font-weight:bold;font-size:15px;color:#ff8040;}
+a.rvts23:hover{color:#ff8000;}
+.rvts24,h2{font-size:17px;color:#000000;}
+.rvts25{font-weight:bold;font-size:17px;color:#000000;}
+.rvts26{font-style:italic;font-size:17px;color:#000000;}
+.rvts27{font-style:italic;font-weight:bold;font-size:17px;color:#000000;}
+a.rvts28,.rvts28{font-size:17px;color:#ff8040;}
+a.rvts28:hover{color:#ff8000;}
+a.rvts29,.rvts29{font-weight:bold;font-size:17px;color:#ff8040;}
+a.rvts29:hover{color:#ff8000;}
+a.rvts30,.rvts30{font-style:italic;font-size:17px;color:#ff8040;}
+a.rvts30:hover{color:#ff8000;}
+a.rvts31,.rvts31{font-style:italic;font-weight:bold;font-size:17px;color:#ff8040;}
+a.rvts31:hover{color:#ff8000;}
+.rvts32,h1{font-size:23px;color:#000000;}
+.rvts33{font-weight:bold;font-size:23px;color:#000000;}
+.rvts34{font-style:italic;font-size:23px;color:#000000;}
+.rvts35{font-style:italic;font-weight:bold;font-size:23px;color:#000000;}
+a.rvts36,.rvts36{font-size:23px;color:#ff8040;}
+a.rvts36:hover{color:#ff8000;}
+a.rvts37,.rvts37{font-weight:bold;font-size:23px;color:#ff8040;}
+a.rvts37:hover{color:#ff8000;}
+a.rvts38,.rvts38{font-style:italic;font-size:23px;color:#ff8040;}
+a.rvts38:hover{color:#ff8000;}
+a.rvts39,.rvts39{font-style:italic;font-weight:bold;font-size:23px;color:#ff8040;}
+a.rvts39:hover{color:#ff8000;}
+.rvts40{font-size:13px;color:#000000;}
+.rvts41{font-weight:bold;font-size:13px;color:#000000;}
+.rvts42{font-style:italic;font-size:13px;color:#000000;}
+.rvts43{font-style:italic;font-weight:bold;font-size:13px;color:#000000;}
+a.rvts44,.rvts44{font-size:13px;color:#ff8040;}
+a.rvts44:hover{color:#ff8000;}
+a.rvts45,.rvts45{font-weight:bold;font-size:13px;color:#ff8040;}
+a.rvts45:hover{color:#ff8000;}
+a.rvts46,.rvts46{font-style:italic;font-size:13px;color:#ff8040;}
+a.rvts46:hover{color:#ff8000;}
+a.rvts47,.rvts47{font-style:italic;font-weight:bold;font-size:13px;color:#ff8040;}
+a.rvts47:hover{color:#ff8000;}
+.rvts48{font-size:12px;color:#000000;}
+.rvts49{font-weight:bold;font-size:12px;color:#000000;}
+.rvts50{font-style:italic;font-size:12px;color:#000000;}
+.rvts51{font-style:italic;font-weight:bold;font-size:12px;color:#000000;}
+a.rvts52,.rvts52{font-size:12px;color:#0000ff;text-decoration:underline;}
+a.rvts52:hover{color:#0000ff;}
+a.rvts53,.rvts53{font-weight:bold;font-size:12px;color:#0000ff;text-decoration:underline;}
+a.rvts53:hover{color:#0000ff;}
+a.rvts54,.rvts54{font-style:italic;font-size:12px;color:#0000ff;text-decoration:underline;}
+a.rvts54:hover{color:#0000ff;}
+a.rvts55,.rvts55{font-style:italic;font-weight:bold;font-size:12px;color:#0000ff;text-decoration:underline;}
+a.rvts55:hover{color:#0000ff;}
+.rvts56{font-size:15px;color:#ff0000;}
+.rvts57{font-weight:bold;font-size:15px;color:#ff0000;}
+.rvts58{font-style:italic;font-size:15px;color:#ff0000;}
+.rvts59{font-style:italic;font-weight:bold;font-size:15px;color:#ff0000;}
+a.rvts60,.rvts60{font-size:15px;color:#ff8040;text-decoration:underline;}
+a.rvts60:hover{color:#ff8000;}
+a.rvts61,.rvts61{font-weight:bold;font-size:15px;color:#ff8040;text-decoration:underline;}
+a.rvts61:hover{color:#ff8000;}
+a.rvts62,.rvts62{font-style:italic;font-size:15px;color:#ff8040;text-decoration:underline;}
+a.rvts62:hover{color:#ff8000;}
+a.rvts63,.rvts63{font-style:italic;font-weight:bold;font-size:15px;color:#ff8040;text-decoration:underline;}
+a.rvts63:hover{color:#ff8000;}
+.rvts64{font-size:15px;color:#0000ff;}
+.rvts65{font-weight:bold;font-size:15px;color:#0000ff;}
+.rvts66{font-style:italic;font-size:15px;color:#0000ff;}
+.rvts67{font-style:italic;font-weight:bold;font-size:15px;color:#0000ff;}
+a.rvts68,.rvts68{font-size:15px;color:#000000;text-decoration:underline;}
+a.rvts68:hover{color:#ff8000;}
+a.rvts69,.rvts69{font-weight:bold;font-size:15px;color:#000000;text-decoration:underline;}
+a.rvts69:hover{color:#ff8000;}
+a.rvts70,.rvts70{font-style:italic;font-size:15px;color:#000000;text-decoration:underline;}
+a.rvts70:hover{color:#ff8000;}
+a.rvts71,.rvts71{font-style:italic;font-weight:bold;font-size:15px;color:#000000;text-decoration:underline;}
+a.rvts71:hover{color:#ff8000;}
+.rvts72{font-size:24px;color:#ff0000;}
+.rvts73{font-weight:bold;font-size:24px;color:#ff0000;}
+.rvts74{font-style:italic;font-size:24px;color:#ff0000;}
+.rvts75{font-style:italic;font-weight:bold;font-size:24px;color:#ff0000;}
+a.rvts76,.rvts76{font-size:24px;color:#ff0000;text-decoration:underline;}
+a.rvts76:hover{color:#0000ff;}
+a.rvts77,.rvts77{font-weight:bold;font-size:24px;color:#ff0000;text-decoration:underline;}
+a.rvts77:hover{color:#0000ff;}
+a.rvts78,.rvts78{font-style:italic;font-size:24px;color:#ff0000;text-decoration:underline;}
+a.rvts78:hover{color:#0000ff;}
+a.rvts79,.rvts79{font-style:italic;font-weight:bold;font-size:24px;color:#ff0000;text-decoration:underline;}
+a.rvts79:hover{color:#0000ff;}
+.rvts80{font-size:16px;color:#ff0000;}
+.rvts81{font-weight:bold;font-size:16px;color:#ff0000;}
+.rvts82{font-style:italic;font-size:16px;color:#ff0000;}
+.rvts83{font-style:italic;font-weight:bold;font-size:16px;color:#ff0000;}
+a.rvts84,.rvts84{font-size:16px;color:#ff8040;text-decoration:underline;}
+a.rvts84:hover{color:#ff8000;}
+a.rvts85,.rvts85{font-weight:bold;font-size:16px;color:#ff8040;text-decoration:underline;}
+a.rvts85:hover{color:#ff8000;}
+a.rvts86,.rvts86{font-style:italic;font-size:16px;color:#ff8040;text-decoration:underline;}
+a.rvts86:hover{color:#ff8000;}
+a.rvts87,.rvts87{font-style:italic;font-weight:bold;font-size:16px;color:#ff8040;text-decoration:underline;}
+a.rvts87:hover{color:#ff8000;}
+h1,h2,h3,h4,h5{font-weight:bold;}
+div,li,h1,h2,h3,h4,h5,h6,p,form{margin:0;padding:0;}
+p{text-align:left;text-indent: 0px;}
+.rvps1{text-align:center;}
+.rvps2{text-align:right;}
+.rvps3{text-align:justify;}
+.rvps5{text-indent: 13px;}
+/* runtime styles */
+.input1 {vertical-align:middle;
+	BORDER-LEFT: 1px solid #000000;
+BORDER-RIGHT: 1px solid #000000;
+BORDER-TOP: 1px solid #000000;
+BORDER-BOTTOM: 1px solid #000000;
+	BACKGROUND-COLOR: #C0C0C0;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+}
+.topic_t {
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration:none;
+}
+.news_t {
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration:none;
+}
+.sub_t {
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration:none;
+}
+.pageheader{text-align:center;}
+.pagebg {padding: 5px 5px 5px 15px;}
+
+.caption {vertical-align:middle;font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;font-size:10px;text-align:center;color:#000000;}
+.sub_t,.sub_tm{background:url(../images/kdr_sub_topbar.jpg);}
+.sub_bg{background:url(../images/kdr_sub_bgp.jpg)}
+.sub_l{background:url(../images/kdr_sub_leftbar.jpg);height:100%}
+.sub_r{background:url(../images/kdr_sub_rightbar.jpg);height:100%}
+.sub_b,.sub_bm{background:url(../images/kdr_sub_bottombar.jpg)}
+.sub_b,.sub_t{width:100%}
+.cim{width:18px;height:18px;display:block;}
+.clr{width:18px;height:10px;display:block;}
+form {padding:0px;display:inline;margin:0px;}
+img{border:0px;}
+.bullet{vertical-align:middle;height:13px;width:13px;}/* end runtime styles */
+
+
+.xp{margin-left:17px;margin-bottom:7px;}
+.dx{margin-left:22px;margin-bottom:2px;}
+.mmenu_bg{background: url(../images/button.jpg);}
+.smenu_bg{background: url(../images/sub_button.jpg);}
+.mmenu{font-size: 12px;color:#C0C0C0;font-family: tahoma;text-decoration:none;}
+.smenu{font-size: 11px;color:#C0C0C0;font-family: tahoma;text-decoration:none;}
+.ssmenu{font-size:11px;color:#000000;font-family: verdana;text-decoration:none;}
+a.ssmenu:link{font-size: 11px;color:#000000; text-decoration: underline}
+a.ssmenu:visited{font-size: 11px;color:#000000; text-decoration: underline}
+a.ssmenu:hover{font-size: 11px;color:#FF7F50;text-decoration: underline;}
+a.smenu:link{color:#C0C0C0; text-decoration: none}
+a.smenu:visited{color:#C0C0C0;text-decoration: none}
+a.smenu:hover,a.smenu#sa{color:#000000;  text-decoration: none }
+a.mmenu:link{color:#C0C0C0; text-decoration: none}
+a.mmenu:visited{color:#C0C0C0; text-decoration: none}
+a.mmenu:hover,a.mmenu#ma{color:#000000;text-decoration:none;}
